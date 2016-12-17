@@ -1,7 +1,9 @@
 {
-	"authors": [
-		"Leonid Verhovskij"
-	],
+	"@metadata": {
+		"authors": [
+			"Leonid Verhovskij"
+		]
+	},
 	"parentpage-desc": "provide special semantic property \"parent page\" on subpages",
 	"prefs-parentpage": "Parent page"
 }
