@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Gomoko",
+			"Wladek92"
+		]
+	},
+	"parentpage-desc": "Fournit le propriété sémantique particulière « page parente » sur les sous-pages",
+	"prefs-parentpage": "Page parent"
+}
