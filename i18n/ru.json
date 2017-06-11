@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kareyac"
+			"Kareyac",
+			"Facenapalm"
 		]
 	},
+	"parentpage-desc": "Предоставляет специальное семантическое свойство «родительская страница» на подстраницах",
 	"prefs-parentpage": "Родительская страница"
 }
