@@ -12,7 +12,7 @@
 		"MediaWiki": ">= 1.31.0"
 	},
 	"AutoloadClasses": {
-		"ParentPage": "includes/ParentPage.class.php"
+		"ParentPage": "includes/ParentPage.php"
 	},
 	"MessagesDirs": {
 		"ParentPage": [

@@ -7,9 +7,9 @@ wfWarn(
 
 wfLoadExtension( "ParentPage" );
 
-//register new field for parent page, use BlueSpiceSMWConnector Extension
-//https://www.mediawiki.org/wiki/Extension:BlueSpiceSMWConnector
-$GLOBALS["bssDefinitions"]["_PARENTPAGE"] = array(
+// register new field for parent page, use BlueSpiceSMWConnector Extension
+// https://www.mediawiki.org/wiki/Extension:BlueSpiceSMWConnector
+$GLOBALS["bssDefinitions"]["_PARENTPAGE"] = [
 	"id" => "___PARENTPAGE",
 	"type" => 9,
 	"show" => false,
@@ -17,4 +17,4 @@ $GLOBALS["bssDefinitions"]["_PARENTPAGE"] = array(
 	"alias" => "prefs-parentpage",
 	"label" => "Parent page",
 	"mapping" => "ParentPage::addPropertyValue"
-);
+];

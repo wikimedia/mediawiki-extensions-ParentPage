@@ -2,7 +2,16 @@
 
 class ParentPage {
 
-	public static function addPropertyValue( SMW\SemanticData $aSemanticData, WikiPage $aWikiPage, SMW\DIProperty $aProperty ) {
+	/**
+	 * @param SMW\SemanticData $aSemanticData
+	 * @param WikiPage $aWikiPage
+	 * @param SMW\DIProperty $aProperty
+	 */
+	public static function addPropertyValue(
+		SMW\SemanticData $aSemanticData,
+		WikiPage $aWikiPage,
+		SMW\DIProperty $aProperty
+	) {
 		$oTitle = $aWikiPage->getTitle();
 		$fTitle = $oTitle->getFullText();
 		$sTitle = $oTitle->getSubpageText();
