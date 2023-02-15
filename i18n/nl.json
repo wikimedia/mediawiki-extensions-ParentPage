@@ -4,5 +4,6 @@
 			"Mainframe98"
 		]
 	},
-	"parentpage-desc": "Voegt de speciale semantische eigenschap \"parent page\" toe aan deelpagina's"
+	"parentpage-desc": "Voegt de speciale semantische eigenschap \"parent page\" toe aan deelpagina's",
+	"prefs-parentpage": "Bovenliggende pagina"
 }
