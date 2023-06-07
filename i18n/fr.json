@@ -3,9 +3,10 @@
 		"authors": [
 			"Gomoko",
 			"Thibaut120094",
-			"Wladek92"
+			"Wladek92",
+			"Verdy p"
 		]
 	},
-	"parentpage-desc": "Fournit le propriété sémantique particulière « page parente » sur les sous-pages",
-	"prefs-parentpage": "Page parent"
+	"parentpage-desc": "Fournit la propriété sémantique spéciale « page parente » sur les sous-pages",
+	"prefs-parentpage": "Page parente"
 }
